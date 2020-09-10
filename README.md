@@ -9,5 +9,5 @@
 - If you choosen 1, enter password to decrypt.
 - Provide access key.
 - Get your original password.
-![Alt text](Doc1.docx"Screenshot")
-Doc1.docx
+
+
