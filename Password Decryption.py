@@ -8,4 +8,4 @@ def securepassword(password):
     return password
 password = f
 password = securepassword(password)
-print(f"Your Encrpted Password is: {password}") #printing original password.
+print(f"Your Original Password is: {password}") #printing original password.
